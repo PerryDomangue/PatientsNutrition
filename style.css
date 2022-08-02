@@ -769,7 +769,7 @@ footer p span {
 	}
 }
 
-@media only screen and (max-width: 8000px) and (min-resolution: 10dpi) {
+@media only screen and (max-width: 8000px) /*and (min-resolution: 10dpi)*/ {
     /*for smart phones and tablets, (viewport width less than 1000px with medium res or better)*/
     body {
         zoom: 1.5;
