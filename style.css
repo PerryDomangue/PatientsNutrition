@@ -801,7 +801,7 @@ footer p span {
         border: 0px;
   
     }
-    footer {
+    /*footer {
        
             position: fixed;
             left: 0;
@@ -817,5 +817,5 @@ footer p span {
             margin: 0 auto;
             width: auto;
        
-    } 
+    } */
 }
